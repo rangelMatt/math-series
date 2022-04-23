@@ -29,4 +29,8 @@ Tests -->
 
 Test three for the sum_series function wasn't something I was expecting. It put out 'None' and I was expected 0. If I get more time I am going to revisit this and play with that one some more.
 
+## Resubmit notes
+
+I was able to give sum_series another look, and I laughed when I looked at it. I **totally* looked at the lesson incorrectly. I must have been tired.
+
 <!-- Describe any tests that you did not complete, skipped, etc -->
